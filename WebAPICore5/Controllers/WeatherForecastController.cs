@@ -13,7 +13,7 @@ namespace WebAPICore5.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Mumbai", "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Delhi", "Mumbai", "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
